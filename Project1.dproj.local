@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.06.24 10:39:19.789,=C:\Users\usser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.06.24 11:23:06.389,C:\Users\usser\Documents\Embarcadero\Studio\Projects\ProcessorTest.pas=C:\Users\usser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.06.24 11:23:06.389,C:\Users\usser\Documents\Embarcadero\Studio\Projects\ProcessorTest.dfm=C:\Users\usser\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.06.24 11:23:17.298,C:\Users\usser\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\usser\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021.06.24 12:38:30.986,=C:\Users\usser\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021.06.24 12:45:48.068,=C:\Users\usser\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021.06.24 12:52:17.921,C:\Users\usser\Documents\Embarcadero\Studio\Projects\About.pas=C:\Users\usser\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021.06.24 12:52:17.921,C:\Users\usser\Documents\Embarcadero\Studio\Projects\About.dfm=C:\Users\usser\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
